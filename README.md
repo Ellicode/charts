@@ -1,3 +1,4 @@
 # charts
 Javascript charts using canvas
-https://ellicode.github.com/charts
+
+https://ellicode.github.io/charts
